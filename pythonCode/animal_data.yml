@@ -1,0 +1,11 @@
+animal1:
+  name: "虎子"
+  colour: "白"
+  age: 5
+  gender: "female"
+
+animal2:
+  name: "黑子"
+  colour: "黑"
+  age: 3
+  gender: "male"
